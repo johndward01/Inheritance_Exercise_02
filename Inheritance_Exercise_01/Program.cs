@@ -8,5 +8,3 @@
 // TODO: Create objects for each of the derived classes and give their properties values
 
 // TODO: Creatively display the information to the console
-
-// TODO: Another random TODO
